@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|c:\\users\\jmaslany\\desktop\\niechcemisie\\pracajakas\\pracajakas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|solutionrelative:pracajakas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|c:\\users\\jmaslany\\desktop\\niechcemisie\\pracajakas\\pracajakas\\formwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|solutionrelative:pracajakas\\formwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|c:\\users\\jmaslany\\desktop\\niechcemisie\\pracajakas\\pracajakas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|solutionrelative:pracajakas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|c:\\users\\jmaslany\\desktop\\niechcemisie\\pracajakas\\pracajakas\\formwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2EE7B4-3FD7-4610-B9C0-98EDCDC3D50E}|pracajakas\\pracajakas.csproj|solutionrelative:pracajakas\\formwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\FormWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pracajakas\\FormWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\FormWindow.xaml.cs",
+              "RelativeToolTip": "pracajakas\\FormWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:43:21.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\FormWindow.xaml",
+              "RelativeDocumentMoniker": "pracajakas\\FormWindow.xaml",
+              "ToolTip": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\FormWindow.xaml",
+              "RelativeToolTip": "pracajakas\\FormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T05:53:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pracajakas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\MainWindow.xaml",
+              "RelativeToolTip": "pracajakas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T05:32:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pracajakas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jmaslany\\Desktop\\niechcemisie\\pracajakas\\pracajakas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pracajakas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:32:24.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
