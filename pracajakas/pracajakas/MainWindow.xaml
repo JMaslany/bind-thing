@@ -19,7 +19,7 @@
                 <MenuItem Header="Edytuj" Click="EditData"/>
             </MenuItem>
         </Menu>
-        <DataGrid x:Name="DataDisplay">
+        <DataGrid x:Name="DataDisplay" AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Imie" Binding="{Binding Imie}" Width="*"/>
                 <DataGridTextColumn Header="Nazwisko"  Binding="{Binding Nazwisko}"  Width="*"/>

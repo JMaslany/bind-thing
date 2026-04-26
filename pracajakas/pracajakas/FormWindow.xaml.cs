@@ -19,14 +19,32 @@ namespace pracajakas
     /// </summary>
     public partial class FormWindow : Window
     {
-        public FormWindow()
+        public Dane? ResData;
+
+        public FormWindow(Dane? editData)
         {
             InitializeComponent();
+
+            if (editData != null) 
+            {
+                im.Text = editData.Imie;
+                na.Text = editData.Nazwisko;
+                wi.Text = editData.Wiek.ToString();
+                tel.Text = editData.NrTel;
+            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            ResData = new Dane
+            {
+                Imie = im.Text.Trim(),
+                Nazwisko = na.Text.Trim(),
+                Wiek = int.Parse(wi.Text.Trim()),
+                NrTel = tel.Text.Trim()
+            };
 
+            DialogResult = true;
         }
     }
 }
